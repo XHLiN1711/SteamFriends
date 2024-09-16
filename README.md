@@ -18,7 +18,7 @@
 
 | Avatar                                                                            | Name            | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/9ca5fd4dbb729776cc92fbd7e4d1a3996be1de80.jpg) | MObq            | [76561198280734891](https://steamcommunity.com/profiles/76561198280734891/) | ✅           | 2022-03-04 11:49:18 |          |
+| ![](https://avatars.steamstatic.com/f48d0711ce228462c670087a4500e8ce791713d8.jpg) | MObq            | [76561198280734891](https://steamcommunity.com/profiles/76561198280734891/) | ✅           | 2022-03-04 11:49:18 |          |
 | ![](https://avatars.steamstatic.com/d893071b4ed68c0d5c7d116f37b3695f986b6160.jpg) | 锚锚澪             | [76561198318152902](https://steamcommunity.com/profiles/76561198318152902/) | ✅           | 2022-11-02 09:36:01 |          |
 | ![](https://avatars.steamstatic.com/3a9a68d814229a9e786ec26fbc39a7a7440fec49.jpg) | 藤原ノ妹紅たん         | [76561198989750368](https://steamcommunity.com/profiles/76561198989750368/) | ✅           | 2021-12-29 08:47:38 |          |
 | ![](https://avatars.steamstatic.com/f07d9975b8f903faa86e94445fbd9edb3c9f2d10.jpg) | Karen丶          | [76561198113179780](https://steamcommunity.com/profiles/76561198113179780/) | ✅           | 2022-05-20 11:37:29 |          |
