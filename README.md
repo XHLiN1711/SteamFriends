@@ -42,7 +42,7 @@
 | ![](https://avatars.steamstatic.com/c8a7c092637178f378e0d6103986e99e3e377d48.jpg) | 源来氏岛风           | [76561198396667245](https://steamcommunity.com/profiles/76561198396667245/) | ✅           | 2022-12-19 17:16:51 |          |
 | ![](https://avatars.steamstatic.com/91128ea25fa4f459f2e0dacb7950c0e358285105.jpg) | Yannosakana     | [76561198834049604](https://steamcommunity.com/profiles/76561198834049604/) | ✅           | 2021-12-20 08:56:43 |          |
 | ![](https://avatars.steamstatic.com/c3bc06961db64080a517366bf703083590d23812.jpg) | 時雨Shigure       | [76561198865344945](https://steamcommunity.com/profiles/76561198865344945/) | ✅           | 2022-12-23 04:14:39 |          |
-| ![](https://avatars.steamstatic.com/52b676256b5e365061ac842844fdf4e180ee0c01.jpg) | 魔芋砂玛格特罗伊德       | [76561199109419602](https://steamcommunity.com/profiles/76561199109419602/) | ✅           | 2024-03-23 04:39:53 |          |
+| ![](https://avatars.steamstatic.com/52b676256b5e365061ac842844fdf4e180ee0c01.jpg) | 魔芋砂玛格特罗伊德       | [76561199109419602](https://steamcommunity.com/profiles/76561199109419602/) | ❌           | 2024-03-23 04:39:53 |          |
 | ![](https://avatars.steamstatic.com/bd578af7498c9a5b2754230c1843d05ffd0a43f1.jpg) | 最最最喜欢你          | [76561199028105280](https://steamcommunity.com/profiles/76561199028105280/) | ✅           | 2024-08-06 13:59:24 |          |
 | ![](https://avatars.steamstatic.com/e1f6ccf521c7ca5e998b4a8ddb8a99f7b0318e1d.jpg) | 卡莉奥斯特萝          | [76561199253023492](https://steamcommunity.com/profiles/76561199253023492/) | ✅           | 2022-06-17 12:24:41 |          |
 | ![](https://avatars.steamstatic.com/6988b8a131e06f1b44dfdf9a2b15e3a8525cf7d3.jpg) | 半分虚幻            | [76561198281383532](https://steamcommunity.com/profiles/76561198281383532/) | ✅           | 2022-02-21 13:06:33 |          |
@@ -60,3 +60,4 @@
 | ![](https://avatars.steamstatic.com/a16220a00267962e95111eeb510d240c2034c2be.jpg) | 今晚你吃什么          | [76561199145305657](https://steamcommunity.com/profiles/76561199145305657/) | ✅           | 2022-04-06 07:30:04 |          |
 | ![](https://avatars.steamstatic.com/bf251b42d11a028fdf466fa98fe369a2a29b50fd.jpg) | 绿苟              | [76561199032557774](https://steamcommunity.com/profiles/76561199032557774/) | ✅           | 2022-02-24 14:43:09 |          |
 | ![](https://avatars.steamstatic.com/32276fd108b437842fb85e7f993dd7030bbfdfad.jpg) | 科比·布莱恩特         | [76561198312374850](https://steamcommunity.com/profiles/76561198312374850/) | ✅           | 2022-04-06 12:09:50 |          |
+| ![](https://avatars.steamstatic.com/f4f72fe7ff20328854d639ddcf0672a829c74335.jpg) | Papongx         | [76561199566043174](https://steamcommunity.com/profiles/76561199566043174/) | ✅           | 2024-10-09 13:38:49 |          |
