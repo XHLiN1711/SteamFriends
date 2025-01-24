@@ -62,3 +62,4 @@
 | ![](https://avatars.steamstatic.com/32276fd108b437842fb85e7f993dd7030bbfdfad.jpg) | 科比·布莱恩特         | [76561198312374850](https://steamcommunity.com/profiles/76561198312374850/) | ✅           | 2022-04-06 12:09:50 |          |
 | ![](https://avatars.steamstatic.com/f4f72fe7ff20328854d639ddcf0672a829c74335.jpg) | Papongx         | [76561199566043174](https://steamcommunity.com/profiles/76561199566043174/) | ❌           | 2024-10-09 13:38:49 |          |
 | ![](https://avatars.steamstatic.com/fdf4ef82ee89c5058cec04b84c8189608107a26f.jpg) | 闪耀星辰            | [76561198312181556](https://steamcommunity.com/profiles/76561198312181556/) | ✅           | 2025-01-21 13:22:35 |          |
+| ![](https://avatars.steamstatic.com/fa5062a83363625417f2a9ea9baa2ecf710d19f8.jpg) | 影冰              | [76561199346339646](https://steamcommunity.com/profiles/76561199346339646/) | ✅           | 2025-01-23 12:13:12 |          |
