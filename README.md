@@ -64,3 +64,4 @@
 | ![](https://avatars.steamstatic.com/fdf4ef82ee89c5058cec04b84c8189608107a26f.jpg) | 闪耀星辰            | [76561198312181556](https://steamcommunity.com/profiles/76561198312181556/) | ✅           | 2025-01-21 13:22:35 |          |
 | ![](https://avatars.steamstatic.com/fa5062a83363625417f2a9ea9baa2ecf710d19f8.jpg) | 影冰              | [76561199346339646](https://steamcommunity.com/profiles/76561199346339646/) | ❌           | 2025-01-23 12:13:12 |          |
 | ![](https://avatars.steamstatic.com/03527e7314e72f597a639a826b9d314b487af9e1.jpg) | 清蒸骆驼            | [76561199242976581](https://steamcommunity.com/profiles/76561199242976581/) | ❌           | 2025-02-07 07:39:59 |          |
+| ![](https://avatars.steamstatic.com/ba1d37542e95ef647caaf5c1ab09d243b66ac7f2.jpg) | DA⭐ZE           | [76561199125375840](https://steamcommunity.com/profiles/76561199125375840/) | ✅           | 2025-03-22 12:58:47 |          |
